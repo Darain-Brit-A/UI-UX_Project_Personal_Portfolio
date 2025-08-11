@@ -1,6 +1,6 @@
 # UI-UX_Project_Personal_Portfolio
 
-A personal portfolio website to showcase my **skills**, **projects**, **achievements**, and **contact information**.  
+A personal portfolio website to showcase a person's **skills**, **projects**, **achievements**, and **contact information**.  
 This site is built with **HTML** and **CSS** and designed to be clean, professional, and fully responsive.
 
 ## Summary
